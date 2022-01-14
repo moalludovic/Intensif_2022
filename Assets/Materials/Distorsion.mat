@@ -13,7 +13,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2999
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -35,6 +35,9 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - Vector1_8965ba21af9f487abd441807833efc80: -0.49
+    m_Colors:
+    - Vector2_721662b7843a402f832047d100573f09: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_800c5a8f89494ff286dbeb3769bd925d: {r: 0.04, g: 5.43, b: 0, a: 0}
   m_BuildTextureStacks: []
