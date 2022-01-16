@@ -13,8 +13,8 @@ TagManager:
   - UI
   - PostProcessing
   - NoCollides
-  - 
-  - 
+  - HeadCollider
+  - GroundCollider
   - 
   - 
   - 
@@ -29,14 +29,14 @@ TagManager:
   - 
   - 
   - Distorded
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Mask01
+  - Mask02
+  - Mask03
+  - Mask04
+  - ReactToMask01
+  - ReactToMask02
+  - ReactToMask03
+  - ReactToMask04
   m_SortingLayers:
   - name: Default
     uniqueID: 0
