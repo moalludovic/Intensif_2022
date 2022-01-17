@@ -3,7 +3,17 @@ guid: e2246e4dbfa35b64b93bed537a6b58fc
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_philodendronBase
+    second: {fileID: 2100000, guid: 9a20bcf167791f640b6f339cce6e7f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_philodendron_Inst
+    second: {fileID: 2100000, guid: 1f4540adfee044e439610510e257af21, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

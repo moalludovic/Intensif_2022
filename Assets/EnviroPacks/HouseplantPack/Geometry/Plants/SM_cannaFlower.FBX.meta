@@ -3,7 +3,22 @@ guid: 5390ee102d0195d4fabb9bb4e6f6ca49
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_CannaFlower_Inst
+    second: {fileID: 2100000, guid: 70fb504c5cd5d344481b1d297ff68e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cannaFlowerStem
+    second: {fileID: 2100000, guid: da662dc88a8717946a3660a779ecb185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cannaLeaf_Inst
+    second: {fileID: 2100000, guid: 366532400f641554b914c8bbd7ec085a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

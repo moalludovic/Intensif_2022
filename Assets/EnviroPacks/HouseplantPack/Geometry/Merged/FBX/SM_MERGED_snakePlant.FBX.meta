@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 3410c324024e1124996594dae446aac4
+guid: 3d05d52b0577ef84fa8daddf11386f0d
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_VintagePot2a_Inst
+    second: {fileID: 2100000, guid: e276c1a69eafeef4fa5c6ee918cf6553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_plantStand1_Inst
+    second: {fileID: 2100000, guid: 0f79db52d315f294e9f93ab9e8d24ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sankePlant_Inst
+    second: {fileID: 2100000, guid: 945e26463afc7894692f89c2ac71b442, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

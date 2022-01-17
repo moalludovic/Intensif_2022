@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: 548a46c19473b2f4fb17318fd6e3310c
+guid: 3410c324024e1124996594dae446aac4
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ConcretePot_Inst
+    second: {fileID: 2100000, guid: 9a20bcf167791f640b6f339cce6e7f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_philodendronBase
+    second: {fileID: 2100000, guid: 9a20bcf167791f640b6f339cce6e7f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_plantstand03_Inst
+    second: {fileID: 2100000, guid: be15f128f6bf1704eb6cf7f4beb42c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_philodendron
+    second: {fileID: 2100000, guid: 1f4540adfee044e439610510e257af21, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

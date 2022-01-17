@@ -3,7 +3,12 @@ guid: 108441bec59ec44429aa98a707327d5c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_sankePlant_Inst
+    second: {fileID: 2100000, guid: 945e26463afc7894692f89c2ac71b442, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
