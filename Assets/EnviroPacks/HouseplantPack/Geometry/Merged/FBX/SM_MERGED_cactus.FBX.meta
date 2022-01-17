@@ -1,9 +1,24 @@
 fileFormatVersion: 2
-guid: 855fd358bcd433345806ffa6bb2c8721
+guid: 2b74846e4f2c8264497e11bbea0265d4
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_cactus_Inst
+    second: {fileID: 2100000, guid: 557028758b4030d4aa7a39bac9bfbe5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_plantStand1_Inst
+    second: {fileID: 2100000, guid: 0f79db52d315f294e9f93ab9e8d24ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_vintagePot2_Inst
+    second: {fileID: 2100000, guid: b9288ccf02a15674589d3d53aeaef9cb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

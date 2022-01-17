@@ -3,7 +3,22 @@ guid: d0cb208dca4074d4cae673a3f36cdf28
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_peaceLilyFlower_Inst2
+    second: {fileID: 2100000, guid: 2ecb5e50505265a43bfe1208e03009c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_peaceLilyStem
+    second: {fileID: 2100000, guid: 034c69bd69980ad409cbfbe838c910a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_peaeLily_Inst
+    second: {fileID: 2100000, guid: 660d487d9ac5aa142a2f722236fa9e89, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

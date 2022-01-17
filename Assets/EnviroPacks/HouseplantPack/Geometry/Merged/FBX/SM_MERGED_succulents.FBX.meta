@@ -1,9 +1,34 @@
 fileFormatVersion: 2
-guid: 3d05d52b0577ef84fa8daddf11386f0d
+guid: 855fd358bcd433345806ffa6bb2c8721
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_aloe
+    second: {fileID: 2100000, guid: 0da8160e9bbd8954db26ab762848c7d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_succulentPot02_Inst
+    second: {fileID: 2100000, guid: 55d18a20d71fc6745ab37b75dbebe19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_succulent_Inst02
+    second: {fileID: 2100000, guid: 2c0c361c50eba524f9b30e29dfa2042f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_succulent_Inst04
+    second: {fileID: 2100000, guid: 67f64ac12cc58224cbb5da21e6a684f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_succulent_Inst05
+    second: {fileID: 2100000, guid: d56f9b8e728ddc04f8abb1d18774f06a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
