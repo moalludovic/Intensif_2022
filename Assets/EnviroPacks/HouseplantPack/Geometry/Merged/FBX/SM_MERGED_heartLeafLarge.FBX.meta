@@ -1,9 +1,29 @@
 fileFormatVersion: 2
-guid: 2b74846e4f2c8264497e11bbea0265d4
+guid: 49da60d949e70944a8fa300e36ecd00e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_HeartLeaf_Inst
+    second: {fileID: 2100000, guid: dc282c18d7b55bc41ae9a1503739eea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ceramicPot_Inst
+    second: {fileID: 2100000, guid: cc322edf2c7b82147b7bdb999461f31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_heartLeafStem
+    second: {fileID: 2100000, guid: bba73059be5aa4c48806614fc79cc164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_plantStand04_Inst
+    second: {fileID: 2100000, guid: d553fd0a81e82714bbca0f184d2a946c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
