@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_colone_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_mur_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

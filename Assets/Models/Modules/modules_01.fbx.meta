@@ -8,32 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_coin_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: aeaee610429f51f44981e141eb2a3545, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_colone_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_courbe_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_escalier_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_mur_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ai_muret_SS
-    second: {fileID: 2100000, guid: f808ebb79cf5cc74195df4d9202638a1, type: 2}
+    second: {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -115,7 +115,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 50
+    globalScale: 0.5
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
