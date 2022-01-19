@@ -6,21 +6,20 @@ public class Teleporter : MonoBehaviour
 {
     public Transform TeleporterDestination;
     public CharacterController Player;
-    public IEnumerator DelaiTeleportation;
-    public bool PlayerIsHere = false;
 
-    private float ditanceMin;
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
+    public float distanceMin;
+    
 
     // Update is called once per frame
     void Update()
     {
+        Debug.Log(TeleporterDestination.localPosition);
+        float currentDist = Vector3.Distance(transform.localPosition, Player.transform.localPosition);
+
+        if (currentDist <= distanceMin)
+        {
+            Player.GetComponent<TeleportToTarget>().TP(TeleporterDestination);
+        }
 
     }
     
