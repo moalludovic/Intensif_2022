@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: aloe_inside
+  m_Shader: {fileID: -6465566751694194690, guid: 8dd8bd72fdfac554d9705946923ff9da, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_1a6a9446c7064b8d95c5214df0a3d077:
+        m_Texture: {fileID: 2800000, guid: 342c65c7c2b3f494cab416bebdd255c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2:
+        m_Texture: {fileID: 2800000, guid: cd623dc98bba99345b065e48d1e8ce81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_5206a792f2594d0391a53bb2cecf8bac:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_54eba48fb1f64ab89108ec211b0ba9f6:
+        m_Texture: {fileID: 2800000, guid: d977a738cfa31164288efc3e6e5e6199, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_64659114be53448b823c2c8220f6bdd1:
+        m_Texture: {fileID: 2800000, guid: 64685d060f1d01f4d940013d00b6c49f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_73f8e67dd91c4bd695556ae7bd1d1a53:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_93cabff9a90d4195be5bb44852e2521d:
+        m_Texture: {fileID: 2800000, guid: d977a738cfa31164288efc3e6e5e6199, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_94cfb844fdcb436b88870c56710547c7:
+        m_Texture: {fileID: 2800000, guid: 64685d060f1d01f4d940013d00b6c49f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_a5a1af8fbbfc4786ad8c82381dcf9482:
+        m_Texture: {fileID: 2800000, guid: 979f989677ad99b478addb124854557a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_e5cca1457e8043fb8b43221963ebb92b:
+        m_Texture: {fileID: 2800000, guid: cd623dc98bba99345b065e48d1e8ce81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_1: 0
+    - Boolean_23d5346f3252484eb789e26bc954c0bd: 0
+    - Boolean_686a1dfbdeb54831b89383b0b9982b0f: 0
+    - Boolean_7423be02a91f4070b18d59c897e9b1de: 0
+    - Boolean_a2737aefca8b4eb6bb599bb0af5f2a99: 0
+    - Boolean_a8797dc1936043c0a06e0f8e090a6b6e: 0
+    - Boolean_c1abad47bd55488b8a6035023562a863: 0
+    - Boolean_c91d9fce75cd4143b5611d513ec04afa: 0
+    - Vector1_080a2208f2ad4706a6f33c9b12f61a7f: 1.471
+    - Vector1_4d88b72f4fff41e5bac362f03821c619: 0.35
+    - Vector1_5eca56d7a9a64e42bc2afbe3add78f71: 1.471
+    - Vector1_686c521d54b54da19ab27d444e5c4b42: 1
+    - Vector1_7056244912c94588a3218a61dd2e464d: 1
+    - Vector1_9e9c8856fba5454e96f7cadf42a23a1f: 0
+    - Vector1_bcf5040a57194570991d8f3caef607cc: 0.898
+    - Vector1_bf54253ab1c34b649b173cb9eff60743: 0.35
+    - Vector1_c1243d458a32457ab8a72e4d919abf0a: 0.1
+    - Vector1_c589a6a59c8241b7b135635d328cc49b: 10
+    m_Colors:
+    - Color_7c8e23f53c29446197d2bbf664c5489b: {r: 1, g: 1, b: 1, a: 1}
+    - Color_9327f58e99fb481bb9f9e412275c5220: {r: 1, g: 1, b: 1, a: 0.05882353}
+    - Color_dc7dceee7f514c8099e23a1c49397127: {r: 0.30588236, g: 0.31764707, b: 0.31764707, a: 1}
+    - Vector2_2a35fb70e4bd445781fb22d7e41f03f3: {r: 1, g: 0, b: 0, a: 0}
+    - Vector2_58208123d0514c49a623c012364f6a87: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
