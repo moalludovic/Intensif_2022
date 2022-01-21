@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: d26fced2bdd7ce4448bdd0bf2a9f2706
-=======
-guid: af3904c52fee68e489ada8cb01f1c046
->>>>>>> 96461c813ade79eb8151653f66d07174a315234e
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
@@ -63,7 +59,7 @@ ModelImporter:
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
+    secondaryUVMarginMethod: 0
     secondaryUVMinLightmapResolution: 40
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
@@ -71,11 +67,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-<<<<<<< HEAD
     tangentImportMode: 3
-=======
-    tangentImportMode: 2
->>>>>>> 96461c813ade79eb8151653f66d07174a315234e
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
