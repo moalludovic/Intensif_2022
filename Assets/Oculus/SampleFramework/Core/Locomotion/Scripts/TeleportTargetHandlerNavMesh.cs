@@ -8,7 +8,7 @@ language governing permissions and limitations under the license.
 ************************************************************************************/
 
 // Enable this define to visualize the navigation solution that was used to validate access to the target location.
-//#define SHOW_PATH_RESULT
+#define SHOW_PATH_RESULT
 
 using UnityEngine;
 using System.Collections;

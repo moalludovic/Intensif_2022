@@ -13,7 +13,6 @@ public class Teleporter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(TeleporterDestination.localPosition);
         float currentDist = Vector3.Distance(transform.localPosition, Player.transform.localPosition);
 
         if (currentDist <= distanceMin)
