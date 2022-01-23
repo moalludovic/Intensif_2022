@@ -1949,19 +1949,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5803492816331662730, guid: 7aa64b11b80283e4f958af1e1d93e105, type: 3}
       propertyPath: validColor.a
-      value: 0.9490196
+      value: 0.9411765
       objectReference: {fileID: 0}
     - target: {fileID: 5803492816331662730, guid: 7aa64b11b80283e4f958af1e1d93e105, type: 3}
       propertyPath: validColor.b
-      value: 0.13333334
+      value: 0.49056602
       objectReference: {fileID: 0}
     - target: {fileID: 5803492816331662730, guid: 7aa64b11b80283e4f958af1e1d93e105, type: 3}
       propertyPath: validColor.g
-      value: 0.13333334
+      value: 0.44245937
       objectReference: {fileID: 0}
     - target: {fileID: 5803492816331662730, guid: 7aa64b11b80283e4f958af1e1d93e105, type: 3}
       propertyPath: validColor.r
-      value: 0.13333334
+      value: 0.30776075
       objectReference: {fileID: 0}
     - target: {fileID: 5808005434771281727, guid: 7aa64b11b80283e4f958af1e1d93e105, type: 3}
       propertyPath: m_LocalRotation.w
